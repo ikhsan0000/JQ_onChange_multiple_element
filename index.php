@@ -58,7 +58,7 @@
         var total = 0;
         var tmp = 0;
         iterate = $(".digit").length;
-        console.log("banyak kolom=" + iterate);
+        console.log("total row = " + iterate);
 
         //initial value
         for(x = 0; x<iterate; x++)
